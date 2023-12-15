@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shgrim
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Raghib
+- 👀 I’m a Game Developer
+- 🌱 I’m currently looking for a Job
 - 📫 How to reach me ...
 
 <!---
